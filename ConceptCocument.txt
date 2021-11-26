@@ -9,13 +9,20 @@ World Background
 Pillars
 -
 
-30 second Gameplay description
-Move Left and right to catch fruits to gain score
+30 second Gameplay description [DG]
+the player controls a character holding a bowl .you catch shapes falling from top to bottom. 
+You move by pressing buttons to move and dash around the screen.
+ The default keybinds are left/right arrows to move and shift to dash.
 
-Features Points
-Catch Fruity Fruits
+Features Points [DG]
+Able to switch skin in built in skin maker. Design own falling shapes and catcher.
+Shapes with a red outline, are special shapes that will appear to help you catch the next shape when dashing is considered
+impossible to catch it in a strict timespan allocated. Collecting a outlined shape will make the catcher's dash fast enough 
+to catch the next shape.
 
-Market Analysis
-Make Money
+Market Analysis [DG]
+Compared to Fruit Ninja. And other catching games.
+Aims to make money is with a small price of 4.99$
+
 
 
