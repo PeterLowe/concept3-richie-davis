@@ -10,12 +10,12 @@ Pillars
 -
 
 30 second Gameplay description
--
+Move Left and right to catch fruits to gain score
 
 Features Points
--
+Catch Fruity Fruits
 
 Market Analysis
--
+Make Money
 
 
