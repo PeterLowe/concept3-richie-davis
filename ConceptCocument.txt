@@ -1,13 +1,22 @@
 Concept Document for a Catch Game (Richie, Davis)
 
-Elevator pitch
+Elevator pitch [RB]
 -
+This Catch game captures the good old feeling of catch that we all know and love.
+But this time, you can have your own spin and feeling to it while you clear or create levels and play against your friends,
+with your very own skins and sounds you can create and change that creates huge longevity.
 
-World Background
+World Background [RB]
 -
+The main world background exists with our newly improved engine. 
+Base game has a retro style with shapes (circles, squares, triangles, etc) with neon lights.
+You can also create and change your own catch game.
 
-Pillars
+Pillars [RB]
 -
+Core concepts and themes of our game include the original retro style with neon lights, shapes, and funky retro music.
+Base Catch Game(50%), Skin Creator(20%), Multiplayer(10%) , Level Creator(20%)
+
 
 30 second Gameplay description
 -
